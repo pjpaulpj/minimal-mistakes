@@ -244,3 +244,6 @@ defaults:
       comments: # true
       share: true
       related: true
+     
+# Some edits
+include: ["_posts"]
