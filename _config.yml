@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Notes on Economics, Development and Literature"
+title                    : "Notes on Economics, \n Development and Literature"
 title_separator          : "-"
 name                     : "PJ Paul"
 description              : "Personal Blog"
