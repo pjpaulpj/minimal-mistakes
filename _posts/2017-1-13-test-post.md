@@ -5,6 +5,8 @@ title: Test Post, please ignore
 
 Please ignore.
 
+$$\alpha - \beta$$
+
 \\(\mathbf{y} = A \mathbf{x}\\)
 
 $$\cfrac{d}{dt}\cfrac{\partial L}{\partial \dot{q}} = \cfrac{\partial L}{\partial q}$$
