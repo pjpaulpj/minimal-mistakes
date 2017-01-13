@@ -80,8 +80,8 @@ author:
   name             : "PJ Paul"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
-  location         : "Somewhere"
-  email            :
+  location         : "Andhra Pradesh, India"
+  email            : "pjpaul.stephens@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "https://github.com/pjpaulpj/"
   google_plus      :
   keybase          :
   instagram        :
@@ -111,6 +111,8 @@ author:
 include:
   - .htaccess
   - _pages
+  - _posts
+  - _images
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
