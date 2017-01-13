@@ -3,3 +3,4 @@
 Bunch of posts on economics and literature. 
 
 
+$$\alpha - \beta = \gamma$$
