@@ -7,6 +7,8 @@ Please ignore.
 
 \\(\mathbf{y} = A \mathbf{x}\\)
 
+$$\cfrac{d}{dt}\cfrac{\partial L}{\partial \dot{q}} = \cfrac{\partial L}{\partial q}$$
+
 $$
 \begin{align*}
   and \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
