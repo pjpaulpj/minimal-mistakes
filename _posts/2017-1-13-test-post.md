@@ -7,6 +7,8 @@ Please ignore.
 
 $$\alpha - \beta$$
 
+$$ \LaTeX $$
+
 \\(\mathbf{y} = A \mathbf{x}\\)
 
 $$\cfrac{d}{dt}\cfrac{\partial L}{\partial \dot{q}} = \cfrac{\partial L}{\partial q}$$
