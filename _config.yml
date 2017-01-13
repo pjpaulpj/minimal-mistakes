@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "PJ Paul"
-  avatar           : "/images/pj-paul-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : # "/images/pj-paul-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : "Somewhere"
   email            :
