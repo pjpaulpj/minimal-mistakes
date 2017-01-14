@@ -8,4 +8,4 @@ Please ignore.
 
 $$\alpha - \beta$$
 
-This is an inline $$\Latex$$ command.
+This is an inline $$\LaTeX$$ command.
